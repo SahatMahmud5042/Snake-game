@@ -40,7 +40,7 @@ To get the game up and running on your local machine, follow the instructions be
 
 ## How to Play
 
-The objective of the game is to control the snake using the arrow keys and eat as much food as possible without colliding with the boundaries or the snake's own body. As the snake consumes food, it grows longer, making it increasingly challenging to navigate without collisions.
+The objective of the game is to control the snake using the W, A, S, D keys and eat as much food as possible without colliding with the boundaries or the snake's own body. As the snake consumes food, it grows longer, making it increasingly challenging to navigate without collisions.
 
 ## Controls
 
