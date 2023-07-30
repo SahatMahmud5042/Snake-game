@@ -2,7 +2,9 @@
 
 # Snake Game in Python
 
-![Snake Game](image.png)
+<p align="center">
+  <img src="image.png" alt="Snake Game" width="400">
+</p>
 
 Welcome to the Snake Game repository! This is a simple and fun implementation of the classic Snake Game using Python. The game allows you to control a snake that grows in length as it consumes food, with the objective of achieving the highest possible score without colliding with the boundaries or itself.
 
