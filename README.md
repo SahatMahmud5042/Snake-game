@@ -1,6 +1,4 @@
-# Snake-game
-
-# Snake Game in Python
+<h1 align="center">Snake Game in Python</h1>
 
 <p align="center">
   <img src="image.png" alt="Snake Game" width="400">
